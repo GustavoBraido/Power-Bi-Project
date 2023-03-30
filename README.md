@@ -4,7 +4,7 @@ Aim: Show a little about chart in R and Power Bi
 Photo of the chart made in R and the dashboard made in Power Bi.
 
 
-![](Screenshot 2023-03-30 at 14.54.39.png)
+![]([Screenshot 2023-03-30 at 14.54.39.png](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Screenshot%202023-03-30%20at%2014.54.59.png?raw=true))
 
 
 
