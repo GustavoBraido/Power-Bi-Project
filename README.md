@@ -7,6 +7,15 @@ Photo of the chart made in R and the dashboard made in Power Bi.
 ![Power Bi Dashboard](Screenshot 2023-03-30 at 14.54.39.png)
 
 
+
+![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Screenshot%202023-03-30%20at%2014.54.39.png?raw=true)
+
+
+
+
+
+
+
 [Power Bi Dashboard](https://app.powerbi.com/links/R97PAMmS__?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=0a379dea-8433-4c81-8cee-1a1080a31087)
 
 [Data Source](https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv)
