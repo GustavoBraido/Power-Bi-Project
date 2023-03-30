@@ -1,21 +1,7 @@
-# R and Power Bi Project
+# Power Bi Dashboard Project
 Aim: Show a little about chart in R and Power Bi
 
-Photo of the chart made in R and the dashboard made in Power Bi.
-
-
-R programming image
-
-
-![]()
-
-![]()
-
-
-
-
-
-
+Dashboard made in Power Bi.
 
 ![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Screenshot%202023-03-30%20at%2014.54.39.png?raw=true)
 
