@@ -3,40 +3,23 @@ Aim: To analyse the Performance of the Hollyood Movies
 
 ## Data visualisation using Power Bi
 
-
-
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]( https://myoctocat.com/assets/images/base-octocat.svg)![image](https://user-images.githubusercontent.com/129383432/228948623-728dc55c-161b-49d7-a131-dee7e56641d7.png)
-
-
-
-
-
-
+![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Screenshot%202023-03-30%20at%2020.33.53.png?raw=true)
 
 ### [Power Bi Dashboard](https://app.powerbi.com/links/R97PAMmS__?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=0a379dea-8433-4c81-8cee-1a1080a31087)
 
-### [Data Source](https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv)
+### [Data Source](InformationIsBeautiful.net)
 
-### Using a data collection that I previously cleaned in RStudio, I generated a dashboard with the following parameters:
+Data: Title, genre, studio, profitability, and ratings for movies released between 2007 and 2012.
 
--Load and import library
+Using a data collection that I previously cleaned in **RStudio**, I generated a dashboard with the following parameters:
 
--Check and Drop missing values
+1- Sum of Rotten Tomatoes by Genre
 
--Check for duplicates
+2- Sum of Profitability by Lead Studio
 
--Round off values to 2 places, Profitability and World Wide Gross
+3- Count of Film by Year
 
--Check for outliers using a boxplot
+4- Sum of Audience Score by Film
 
--Create a boxplot that highlights the outliers
-
--Remove outliers in 'Profitability' and 'Worldwide.Gross'
-
--Summary Statistics/Univariate Analysis
-
--Boxplot, Scatterplot and Bar chart.
-
--Imported clean data from R and create chart and dashboard in Power Bi.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]( https://myoctocat.com/assets/images/base-octocat.svg)![image](https://user-images.githubusercontent.com/129383432/228958240-b7bc8ebe-2a53-49c9-8821-d015ecab49cf.png)
 
