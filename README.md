@@ -1,6 +1,8 @@
 # Power Bi Dashboard Project
 Aim: To analyse the Performance of the Hollyood Movies
 
+The requeriment was the Company Brand Colours: Green, Blue and Brown
+
 ## Data visualisation using Power Bi
 
 ![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Performance%20of%20Holywood%20Movies.png?raw=true)
