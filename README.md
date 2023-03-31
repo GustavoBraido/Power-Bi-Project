@@ -3,9 +3,9 @@ Aim: To analyse the Performance of the Hollyood Movies
 
 ## Data visualisation using Power Bi
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]( https://myoctocat.com/assets/images/base-octocat.svg)![image](https://user-images.githubusercontent.com/129383432/229082738-80903c15-400a-428e-987d-7668b89103e4.png)
 
 
+![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Hollywood%20movies%20%E2%80%8BPerformance.png?raw=true)
 
 ### [Power Bi Dashboard](https://app.powerbi.com/links/R97PAMmS__?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=0a379dea-8433-4c81-8cee-1a1080a31087)
 
