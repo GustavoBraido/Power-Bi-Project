@@ -3,8 +3,7 @@ Aim: To analyse the Performance of the Hollyood Movies
 
 ## Data visualisation using Power Bi
 
-![name-of-you-image](https://your-copied-image-address)![image](https://user-images.githubusercontent.com/129383432/229087310-60ce3221-3965-4a63-bca0-33cb68ceb4c6.png)
-
+![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Performance%20of%20Holywood%20Movies.png?raw=true)
 
 ![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Hollywood%20movies%20%E2%80%8BPerformance.png?raw=true)
 
