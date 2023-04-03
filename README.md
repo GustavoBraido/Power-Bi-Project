@@ -5,9 +5,9 @@ The requeriment was the Company Brand Colours: Green, Blue and Brown
 
 ## Data visualisation using Power Bi
 
-![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Performance%20of%20Holywood%20Movies.png?raw=true)
+<img width="650" alt="image" src="https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Performance%20of%20Holywood%20Movies.png?raw=true">
 
-![](https://github.com/GustavoBraido/R-and-Power-Bi-Project/blob/main/Power%20Bi%20Dashboard%20-%20Hollywood%20movies%20%E2%80%8BPerformance.png?raw=true)
+<img width="650" alt="image" src="https://github.com/GustavoBraido/Power-Bi-Project/blob/main/Power%20Bi-HollywoodMovies%E2%80%8BPerformance.png?raw=true">
 
 ### [Power Bi Dashboard](https://app.powerbi.com/links/R97PAMmS__?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=0a379dea-8433-4c81-8cee-1a1080a31087)
 
